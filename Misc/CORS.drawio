@@ -1,9 +1,59 @@
-<mxfile host="app.diagrams.net" modified="2023-07-15T15:08:54.256Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.79" version="21.6.2" etag="rHH9IbyrStOdR0R63k2_" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-15T15:22:36.183Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.79" etag="MXUZOzkpZNpwxUnnv7OG" version="21.6.2" type="github">
   <diagram name="Page-1" id="bWyrejZZqtOjHX-OOeJd">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="3NNPT_B_QShMlTIix_1H-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3NNPT_B_QShMlTIix_1H-1" target="3NNPT_B_QShMlTIix_1H-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3NNPT_B_QShMlTIix_1H-1" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.client;" vertex="1" parent="1">
+          <mxGeometry x="100" y="110" width="78" height="76" as="geometry" />
+        </mxCell>
+        <mxCell id="3NNPT_B_QShMlTIix_1H-2" value="2. http://myapi.com" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="190" y="120" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3NNPT_B_QShMlTIix_1H-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3NNPT_B_QShMlTIix_1H-3" target="3NNPT_B_QShMlTIix_1H-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="210" y="230" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="340" y="270" />
+              <mxPoint x="139" y="270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3NNPT_B_QShMlTIix_1H-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3NNPT_B_QShMlTIix_1H-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480" y="148" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3NNPT_B_QShMlTIix_1H-3" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.api_gateway;fillColor=#D9A741;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="320" y="101.5" width="76.5" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="3NNPT_B_QShMlTIix_1H-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3NNPT_B_QShMlTIix_1H-7" target="3NNPT_B_QShMlTIix_1H-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530" y="300" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="530" y="270" />
+              <mxPoint x="380" y="270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3NNPT_B_QShMlTIix_1H-7" value="" style="image;html=1;image=img/lib/clip_art/computers/Server_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="490" y="115" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3NNPT_B_QShMlTIix_1H-8" value="http://myapp.com" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="70" y="80" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3NNPT_B_QShMlTIix_1H-9" value="http://myapi.com" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="475" y="101.5" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3NNPT_B_QShMlTIix_1H-10" value="Cross Origin Request" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="178" y="170" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3NNPT_B_QShMlTIix_1H-12" value="1. Pre-flight request" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="185" y="80" width="130" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
