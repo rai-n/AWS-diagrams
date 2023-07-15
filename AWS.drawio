@@ -1,1 +1,22 @@
-<mxfile host="app.diagrams.net" modified="2023-07-14T20:49:47.419Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.79" etag="dWxBDx2BnkaubUF4PriQ" version="20.6.2" type="github"><diagram id="jmXU490PA_FPMPl68Ds0" name="Page-1">zVZtb9owEP41fBwiCSHwEQJ0lTppEpq2b5OJTeLVyUW2eeuv3xk7hGCoWq2VBkH4nruzz3f32OlFaXl4kKQuvgFlohcO6KEXzXthGAzDsGeeAT1aJBmPLJBLTp1RC6z4C3PgwKFbTpnqGGoAoXndBTOoKpbpDkakhH3XbAOiu2pNcuYBq4wIH/3JqS4sOg6TFv/KeF40KwejidWUpDF2O1EFobC/gKJFL0olgLaj8pAyYZLX5MX6Le9oz4FJVum3OEx+LMYxHa+3gxX/NYyCZLSZfHHFUPrYbJhR3L8TQeoCcqiIWLToTMK2oszMOkCptXkCqBEMEPzDtD66YpKtBoQKXQqntWuahe5uxUEKtjJjr8QfuZYgMmf6Fbv4nHDsVAYl0/KIfpIJovmuGwdxLZOf7dqs4sAl9h1JdkHuiNi6lbysq2ems6JJ6VYLXrH03NIG3EClUxAgTw4RfpcmhFkuCeWs1VVQmSJtuBDX5nPElZbwzK6MKVHFuaA7JjVHAjyRNRPfQXHNoULdGrSG8sJgKnhuFNqUfUaclGEsTHYLbmJ33RCEjew2b5YkqrYb3fCDiWNWAzezLHY4mXKTIH9q41AecnPU9MleDfuZ4KeecT1lQmOH17vK7wLnEDuiHpuzy8n7lvfJ2ELFBeWT0Se1TfzOtjkl7RREPMMHo0/tL0bT1CD9ML4B3sISHwx8M/wLbq1wDd7CEh8MfDMjNVF3wVtYEvsRX3sHN7yDK+94/q8sRN1kGM+X4YVuziVOZMlUmWPTp2k8jQaz2KMpajanz//I1Zu8lMwe3Y+ZiWeGoh11rUjNf+dEsz05fgyFz5dtw+HwjRwefxKHE4/DqwLqmlc5ooIrXH/aC0fCHGFriaPcjKaUovoBgKqTflBoXdvhEh/lpuhnWONwyTUzf4TSRzOKLBDNjTT1jgxMru5W3OuG66YpOaX25meKv5D1uRe6J44hjbnsleuee7fNZc876ANKP550Kp/4hY+aA/2y8g32jsqj2L61nXQX777R4i8=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-07-15T01:08:18.694Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.79" etag="6Fy4GpOoHvxkEpQe1jF9" version="20.6.2" type="github">
+  <diagram id="jmXU490PA_FPMPl68Ds0" name="Page-1">
+    <mxGraphModel dx="1422" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="9UE85d8bu0SiX43176f9-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="9UE85d8bu0SiX43176f9-3" target="9UE85d8bu0SiX43176f9-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9UE85d8bu0SiX43176f9-3" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.client;" parent="1" vertex="1">
+          <mxGeometry x="90" y="150" width="78" height="76" as="geometry" />
+        </mxCell>
+        <mxCell id="9UE85d8bu0SiX43176f9-5" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#945DF2;gradientDirection=north;fillColor=#5A30B5;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.api_gateway;" parent="1" vertex="1">
+          <mxGeometry x="260" y="149" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="9UE85d8bu0SiX43176f9-7" value="Shopping list:&lt;br&gt;Add Goods: https://shopping.com/item/addItem?item=ItemA" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="129" y="80" width="340" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
